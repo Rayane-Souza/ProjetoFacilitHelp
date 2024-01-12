@@ -8,9 +8,9 @@ Desenvolvimento de uma página dedicada a uma empresa real, especializada na ind
 
 ## 🔗 Layout
 
-![Alt text](image.png)
-![Alt text](image-1.png)
-![Alt text](image-2.png)
+![Alt text](./img/image.png)
+![Alt text](./img/image-1.png)
+![Alt text](./img/image-2.png)
 
 ## 💻 Tecnologias utilizadas
 
