@@ -10,7 +10,7 @@ Desenvolvimento de uma página dedicada a uma empresa real, especializada na ind
 
 ![Alt text](./img/image.png)
 ![Alt text](./img/image-1.png)
-![alt text](image.png)
+![alt text](./img/imageprodutos.png)
 ![Alt text](./img/image-2.png)
 ![Alt text](./img/imagemsite.png)
 
